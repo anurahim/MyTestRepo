@@ -23,6 +23,7 @@
 		7910FF5417B8CDAE006BD427 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7910FF2F17B8CDAE006BD427 /* Foundation.framework */; };
 		7910FF5C17B8CDAE006BD427 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 7910FF5A17B8CDAE006BD427 /* InfoPlist.strings */; };
 		7910FF5F17B8CDAF006BD427 /* MyTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7910FF5E17B8CDAF006BD427 /* MyTestTests.m */; };
+		7910FF6B17B8CF23006BD427 /* MTViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7910FF6A17B8CF23006BD427 /* MTViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +59,7 @@
 		7910FF5B17B8CDAE006BD427 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		7910FF5D17B8CDAE006BD427 /* MyTestTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyTestTests.h; sourceTree = "<group>"; };
 		7910FF5E17B8CDAF006BD427 /* MyTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyTestTests.m; sourceTree = "<group>"; };
+		7910FF6A17B8CF23006BD427 /* MTViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MTViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,7 @@
 				7910FF4517B8CDAE006BD427 /* MainStoryboard.storyboard */,
 				7910FF4817B8CDAE006BD427 /* MTViewController.h */,
 				7910FF4917B8CDAE006BD427 /* MTViewController.m */,
+				7910FF6A17B8CF23006BD427 /* MTViewController.xib */,
 				7910FF3417B8CDAE006BD427 /* Supporting Files */,
 			);
 			path = MyTest;
@@ -237,6 +240,7 @@
 				7910FF4217B8CDAE006BD427 /* Default@2x.png in Resources */,
 				7910FF4417B8CDAE006BD427 /* Default-568h@2x.png in Resources */,
 				7910FF4717B8CDAE006BD427 /* MainStoryboard.storyboard in Resources */,
+				7910FF6B17B8CF23006BD427 /* MTViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
